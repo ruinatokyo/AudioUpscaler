@@ -1,6 +1,6 @@
 # Audio Upscaler
 
-Audio Upscaler is a U-Net-style convolutional autoencoder trained to "upscale" audio using AI. For example, it can convert from an 8-bit 11KHz IFF file to a 16-bit 44.1KHz WAV file. The alpha weights included here are a placeholder and are mostly useless at the moment—this is a running project, training on approximately 200,000 audio files. The weights will eventually be useful for improving sample rates and depth as well as fixing issues associated with audio quality for old and obscure low-quality audio formats.
+Audio Upscaler is a U-Net-style convolutional autoencoder trained to "upscale" audio using AI (for example, up-conversion from an 8-bit 11KHz IFF file to a 16-bit 44.1KHz WAV file). The alpha weights included here are a placeholder and are mostly useless at the moment—this is a running project, training on approximately 200,000 audio files. The weights will eventually be useful for improving sample rates and depth as well as fixing issues associated with audio quality for old and obscure low-quality audio formats.
 
 ## Project Status
 
